@@ -70,7 +70,7 @@ document.getElementById('submitLogin').addEventListener('click', (e) => {
             }, redirectTimeout);
         } else if (adminButton.classList.contains('active')) {
             setTimeout(() => {
-                window.location.href = "https://jeffersonrnd.github.io/Administrator-Employee_SM/";
+                window.location.href = "https://simplementee.github.io/Admin_3/";
             }, redirectTimeout);
         }
     }
