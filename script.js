@@ -66,7 +66,7 @@ document.getElementById('submitLogin').addEventListener('click', (e) => {
         const redirectTimeout = 2000;
         if (clientButton.classList.contains('active')) {
             setTimeout(() => {
-                window.location.href = "https://jeffersonrnd.github.io/CUSTOMER_SM/";
+                window.location.href = "https://simplementee.github.io/clie_2/";
             }, redirectTimeout);
         } else if (adminButton.classList.contains('active')) {
             setTimeout(() => {
